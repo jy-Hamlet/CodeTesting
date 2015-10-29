@@ -1,0 +1,14 @@
+input
+{
+   width: 24px; 
+}
+#mode span
+{
+	font-weight: bold;
+}
+
+#map
+{
+	position: absolute;
+    top:7em;
+}
